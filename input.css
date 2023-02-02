@@ -7,6 +7,7 @@ body {
     background-repeat: no-repeat;
     background-size: 800px;
     background-position: 40% -25%;
+    scroll-behavior: smooth;
 }
 
 .hamburger {
